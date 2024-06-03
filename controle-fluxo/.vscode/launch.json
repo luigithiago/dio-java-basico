@@ -1,0 +1,56 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Break",
+            "request": "launch",
+            "mainClass": "Break",
+            "projectName": "controle-fluxo_928b7cef"
+        },
+        {
+            "type": "java",
+            "name": "Condicional",
+            "request": "launch",
+            "mainClass": "Condicional",
+            "projectName": "controle-fluxo_928b7cef"
+        },
+        {
+            "type": "java",
+            "name": "Encadeada",
+            "request": "launch",
+            "mainClass": "Encadeada",
+            "projectName": "controle-fluxo_928b7cef"
+        },
+        {
+            "type": "java",
+            "name": "For",
+            "request": "launch",
+            "mainClass": "For",
+            "projectName": "controle-fluxo_928b7cef"
+        },
+        {
+            "type": "java",
+            "name": "Simples",
+            "request": "launch",
+            "mainClass": "Simples",
+            "projectName": "controle-fluxo_928b7cef"
+        },
+        {
+            "type": "java",
+            "name": "Ternária",
+            "request": "launch",
+            "mainClass": "Ternária",
+            "projectName": "controle-fluxo_928b7cef"
+        }
+    ]
+}
