@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BreakContinue",
+            "request": "launch",
+            "mainClass": "BreakContinue",
+            "projectName": "controle-fluxo_928b7cef"
+        },
+        {
+            "type": "java",
+            "name": "ForArray",
+            "request": "launch",
+            "mainClass": "ForArray",
+            "projectName": "controle-fluxo_928b7cef"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
