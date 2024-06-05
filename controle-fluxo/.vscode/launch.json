@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "While",
+            "request": "launch",
+            "mainClass": "While",
+            "projectName": "controle-fluxo_928b7cef"
+        },
+        {
+            "type": "java",
             "name": "BreakContinue",
             "request": "launch",
             "mainClass": "BreakContinue",
